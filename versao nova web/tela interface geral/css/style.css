@@ -1,0 +1,123 @@
+*{
+    margin: auto;
+    background-color: #16171C;
+}
+#logo{
+    position: absolute;
+    width: 275px;
+    height: 89px;
+    margin-left: 05vw;
+    margin-top: 6vh;
+    color: #738496;
+    font-family: 'lexend';
+    font-size: 40px;
+    font-weight: 700;
+}
+#trends{
+    position: absolute;
+    margin-left: 454px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#assuntos{
+    position: absolute;
+    margin-left: 554px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#not{
+    position: absolute;
+    margin-left:754px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#img{
+    position: absolute;
+    width: 46px;
+    height: 32px;
+    margin-left: 1180px;
+    margin-top: 70px;
+}
+#linha{
+    position: absolute;
+    width: 80px;
+    height: 5px;
+    left: 448px;
+    top: 100px;
+    background: #3C465F;
+}
+#imgDois{
+    position: absolute;
+    width: 420px;
+    height: 208px;
+    left: 48px;
+    top: 206px;
+}
+#titulo{
+    position: absolute;
+    width: 107px;
+    height: 45px;
+    left: 508px;
+    top: 206px;
+    font-family: 'Lexend';
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+#sub{
+    position: absolute;
+    width: 478px;
+    left: 508px;
+    top: 245px;
+    font-family: 'Lexend';
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+#coracao{
+    position: absolute;
+    width: 68px;
+    height: 23px;
+    margin-left: 524px;
+    margin-top: 320px;
+}
+#quadradoUm{
+    box-sizing: border-box;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 562px;
+    top: 313px;
+    border: 1px solid #FFFFFF;
+    background-color: transparent;
+    cursor: pointer;
+}
+#quadradoDois{
+    box-sizing: border-box;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 518px;
+    top: 313px;
+    border: 1px solid #FFFFFF;
+    background-color: transparent;
+    cursor: pointer;
+}
+#reta{
+    position: absolute;
+    width: 98%;
+    height: 1px;
+    left: 21px;
+    top: 415px;
+    background: #3C465F;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}

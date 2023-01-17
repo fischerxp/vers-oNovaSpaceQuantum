@@ -1,0 +1,120 @@
+*{
+    margin: auto;
+    background-color: #16171C;
+}
+#logo{
+    position: absolute;
+    width: 275px;
+    height: 89px;
+    margin-left: 05vw;
+    margin-top: 6vh;
+    color: #738496;
+    font-family: 'lexend';
+    font-size: 40px;
+    font-weight: 700;
+}
+#trends{
+    position: absolute;
+    margin-left: 404px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#assuntos{
+    position: absolute;
+    margin-left: 504px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#not{
+    position: absolute;
+    margin-left:704px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#cadastre{
+    position: absolute;
+    margin-left: 854px;
+    margin-top: 68px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    color: #738496;
+}
+#img{
+    position: absolute;
+    width: 46px;
+    height: 32px;
+    margin-left: 1180px;
+    margin-top: 70px;
+}
+#email{
+    box-sizing: border-box;
+    position: absolute;
+    width: 443px;
+    height: 56px;
+    left: 498px;
+    top: 242px;
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Lexend';
+}
+#senha{
+    box-sizing: border-box;
+    position: absolute;
+    width: 443px;
+    height: 56px;
+    left: 498px;
+    top: 310px;
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    font-family: 'Lexend';
+}
+#botao{
+    position: absolute;
+    width: 443px;
+    height: 76px;
+    left: 498px;
+    top: 376px;
+    background: #738496;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+}
+#entre{
+    position: absolute;
+    left: 498px;
+    top: 181px;
+    font-family: 'Lexend';
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+#esqueceu{
+    position: absolute;
+    left: 650px;
+    top: 462px;
+    font-family: 'Lexend';
+    font-weight: 500;
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: #3C465F;
+    cursor: pointer;
+}

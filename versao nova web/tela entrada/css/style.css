@@ -1,0 +1,121 @@
+*{
+    background-color: #16171C;
+    margin: 0%;
+}
+#logo{
+    position: absolute;
+    width: 275px;
+    height: 89px;
+    margin-left: 05vw;
+    margin-top: 6vh;
+    color: #738496;
+    font-family: 'lexend';
+    font-size: 40px;
+    font-weight: 700;
+}
+#trends{
+    position: absolute;
+    margin-left: 404px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#assuntos{
+    position: absolute;
+    margin-left: 504px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#not{
+    position: absolute;
+    margin-left:704px;
+    margin-top: 70px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+#entrar{
+    position: absolute;
+    margin-left: 854px;
+    margin-top: 68px;
+    font-family: 'Lexend';
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    color: #738496;
+}
+#img{
+    width: 46px;
+    height: 32px;
+    margin-left: 1180px;
+    margin-top: 70px;
+}
+#um{
+    width: 571px;
+    margin-left: 59px;
+    margin-top: 202px;
+    font-family: 'Lexend';
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+    color: white;
+}
+#dois{
+    width: 405px;
+    margin-left: 59px;
+    margin-top: 12px;
+    font-family: 'Lexend';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #8D8D8D;
+}
+
+#linha{
+    position: absolute;
+    width: 1px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 300px;
+    background: #FFFFFF;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#esc{
+    position: absolute;
+    margin-left: 95px;
+    margin-top: 27px;
+    font-family: 'Lexend';
+    font-weight: 600;
+    font-size: 24px;
+    color:white;
+}
+#flecha{
+    position: absolute;
+    width: 16px;
+    height: 28px;
+    margin-left: 323px;
+    margin-top: -63px;
+}
+#imgDois{
+    width: 515px;
+    height: 367px;
+    margin-left: 761px;
+    margin-top: -280px;
+}
+#boxUm{
+    position: absolute;  
+    border:1px rgb(255, 255, 255) solid;
+    border-collapse: collapse;
+    margin-top: 10px;
+    width: 20vw;
+    margin-left: 04%;
+    height: 04vw;
+    background-color: transparent;
+    cursor: pointer;
+}
